@@ -30,6 +30,11 @@
 
 ## 🌟 Featured Projects
 
+### 🎮 Game AI
+
+**[game-brain](https://github.com/stevetsang852/game-brain)**
+> Game-agnostic AI brain with per-game adapters. First target is Pokémon FireRed through mGBA: pathfinding, battle rules, a local dashboard, and ROM-free pytest. Bring your own legal ROM. No game dump is in the repo.
+
 ### 🧠 Data & research
 
 **[marksix-rd](https://github.com/stevetsang852/marksix-rd)**
