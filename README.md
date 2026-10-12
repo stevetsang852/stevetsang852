@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Steve TSANG 👋</h1>
-<h3 align="center">Builder of small labs · Python, TypeScript, and C# · Hong Kong 🇭🇰</h3>
+<h3 align="center">Small labs from Hong Kong 🇭🇰 · Python, TypeScript, and C#</h3>
 
 <p align="center">
   <a href="https://github.com/stevetsang852">
@@ -18,47 +18,44 @@
 
 ---
 
-## 🚀 About Me
+## About me
 
-- 🔭 I'm **Steve TSANG**, building personal labs and tools from Hong Kong 🇭🇰
-- 🌱 Currently working on **game AI**, **data labs**, and **GitHub automation**
-- 🤝 I like small, testable projects: contracts, Docker, CI, and a dashboard when it helps
-- 🤔 Ask me about: **Python services, TypeScript apps, sockets, or wiring Copilot into a repo**
-- 📬 Reach me on GitHub: **[stevetsang852](https://github.com/stevetsang852)**
-
----
-
-## 🌟 Featured Projects
-
-### 🎮 Game AI
-
-**[game-brain](https://github.com/stevetsang852/game-brain)**
-> Game-agnostic AI brain with per-game adapters. First target is Pokémon FireRed through mGBA: pathfinding, battle rules, a local dashboard, and ROM-free pytest. Bring your own legal ROM. No game dump is in the repo.
-
-### 🧠 Data & research
-
-**[marksix-rd](https://github.com/stevetsang852/marksix-rd)**
-> Hong Kong Mark Six research lab: official ingest, stats and ML experiments, a Streamlit dashboard, and a daily GitHub Actions sync.
-
-### 🃏 Apps
-
-**[CardPlayground](https://github.com/stevetsang852/CardPlayground)**
-> TypeScript playground for card workflows and experiments.
-
-### 🖥️ Systems & learning
-
-**[eco-lab](https://github.com/stevetsang852/eco-lab)**
-> ECO (Emil Chronicle Online) server lab: contracts, Docker, and CI. Not a full private server, and there is no official client.
-
-**[SocketPlayground](https://github.com/stevetsang852/SocketPlayground)**
-> C# socket learning playground, with experiments around TCP, CI, and interoperability.
-
-**[Shutdowntor](https://github.com/stevetsang852/Shutdowntor)**
-> A small C# utility project.
+- **Steve TSANG**, building personal labs and tools from Hong Kong.
+- Right now: a browser souls-like, a FireRed game-AI adapter, and small data labs.
+- I like projects that stay small enough to test: contracts, Docker, CI, and a dashboard when it helps.
+- Ask me about Python services, TypeScript apps, sockets, or wiring Copilot into a repo.
+- Reach me here: **[stevetsang852](https://github.com/stevetsang852)**
 
 ---
 
-## 🧰 Languages & Tools
+## Featured projects
+
+### Games
+
+**[mallow-ashen-vow](https://github.com/stevetsang852/mallow-ashen-vow)** — browser souls-like
+> Sir Mallow, a kitten knight. Three.js WebGL combat slice: lock-on, roll i-frames, stamina, block, poise, and a courtyard boss. Not a Unity project. Procedural meshes only.
+
+**[game-brain](https://github.com/stevetsang852/game-brain)** — game AI adapter
+> Game-agnostic brain (rules, pathfinding, optional local model) with a per-game adapter. First target is Pokémon FireRed through mGBA, plus a local dashboard. Bring your own legal ROM. No game dump is in the repo.
+
+### Data
+
+**[marksix-rd](https://github.com/stevetsang852/marksix-rd)** — Mark Six lab
+> Hong Kong Mark Six research: official ingest, stats and ML experiments, a Streamlit dashboard, and a daily GitHub Actions sync.
+
+### Systems
+
+**[eco-lab](https://github.com/stevetsang852/eco-lab)** — ECO server lab
+> Emil Chronicle Online contracts, Docker, and CI. Not a full private server, and there is no official client.
+
+**[SocketPlayground](https://github.com/stevetsang852/SocketPlayground)** — C# sockets
+> TCP learning playground, with CI and interoperability experiments.
+
+**[Shutdowntor](https://github.com/stevetsang852/Shutdowntor)** — small C# utility.
+
+---
+
+## Languages and tools
 
 ### Primary
 
@@ -78,11 +75,13 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="52" height="52"/></a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/></a>
+  &nbsp;
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="52" height="52"/></a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stevetsang852&show_icons=true&theme=tokyonight&hide_border=true" alt="Steve TSANG GitHub stats" height="165"/>
@@ -91,4 +90,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by. The interesting work is in the repos above.</p>
+<p align="center">Updated October 2026. The interesting work is in the repos above.</p>
