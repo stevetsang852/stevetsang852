@@ -21,14 +21,19 @@
 ## 🚀 About Me
 
 - 🔭 I'm **Steve TSANG**, building personal labs and tools from Hong Kong 🇭🇰
-- 🌱 Currently working on **game AI**, **data labs**, and **GitHub automation**
-- 🤝 I like small, testable projects: contracts, Docker, CI, and a dashboard when it helps
-- 🤔 Ask me about: **Python services, TypeScript apps, sockets, or wiring Copilot into a repo**
+- 🌱 Currently working on **multi-agent systems**, **game AI**, and **data labs**
+- 🤝 I like small, testable projects: contracts, Docker, CI, dashboards, and agent orchestration
+- 🤔 Ask me about: **Python services, TypeScript apps, Grok agents, or wiring Copilot into a repo**
 - 📬 Reach me on GitHub: **[stevetsang852](https://github.com/stevetsang852)**
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🤖 Agents & Automation
+
+**Multi-agent desks & GrokBot experiments**
+> Exploring structured multi-agent setups (Head of Desk + specialists) for research and monitoring. Charters, group chat routing, and human-in-the-loop approvals.
 
 ### 🎮 Game AI
 
@@ -38,7 +43,7 @@
 ### 🧠 Data & research
 
 **[marksix-rd](https://github.com/stevetsang852/marksix-rd)**
-> Hong Kong Mark Six research lab: official ingest, stats and ML experiments, a Streamlit dashboard, and a daily GitHub Actions sync.
+> Hong Kong Mark Six research lab: official ingest, stats and ML experiments, a Streamlit dashboard, FastAPI, and a daily GitHub Actions sync.
 
 ### 🃏 Apps
 
