@@ -21,14 +21,19 @@
 ## 🚀 About Me
 
 - 🔭 I'm **Steve TSANG**, building personal labs and tools from Hong Kong 🇭🇰
-- 🌱 Currently working on **game AI**, **data labs**, and **GitHub automation**
+- 🌱 Currently working on a browser souls-like, game AI, data labs, and GitHub automation
 - 🤝 I like small, testable projects: contracts, Docker, CI, and a dashboard when it helps
-- 🤔 Ask me about: **Python services, TypeScript apps, sockets, or wiring Copilot into a repo**
+- 🤔 Ask me about: **Python services, TypeScript apps, Three.js, sockets, or wiring Copilot into a repo**
 - 📬 Reach me on GitHub: **[stevetsang852](https://github.com/stevetsang852)**
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🐱 Browser game
+
+**[Mallow: Ashen Vow 粉誓](https://github.com/stevetsang852/mallow-ashen-vow)**
+> Browser souls-like starring a kitten knight. Three.js WebGL, not Unity. Play at [mallow-ashen-vow.grok.me](https://mallow-ashen-vow.grok.me/).
 
 ### 🎮 Game AI
 
@@ -39,11 +44,6 @@
 
 **[marksix-rd](https://github.com/stevetsang852/marksix-rd)**
 > Hong Kong Mark Six research lab: official ingest, stats and ML experiments, a Streamlit dashboard, and a daily GitHub Actions sync.
-
-### 🃏 Apps
-
-**[CardPlayground](https://github.com/stevetsang852/CardPlayground)**
-> TypeScript playground for card workflows and experiments.
 
 ### 🖥️ Systems & learning
 
